@@ -10,10 +10,15 @@ First line contains integer N, denoting the number of elements in the array.
 Second line contains N space-separated integers describing the array's elements.
 
 Sample input:
+
 10
+
 64630 11735 14216 99233 14470 4978 73429 38120 51135 67060
 
 Sample output:
+
 43900.6
+
 44627.5
+
 4978
