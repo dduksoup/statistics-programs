@@ -23,7 +23,7 @@ Sample output:
 
 4978
 
-# Weighted Mean
+# Weighted mean
 
 Given an array X of integers and an array representing the respective weights of X's elements, calculate and print the weighted mean of X's elements. Your answer should be rounded to a scale of 1 decimal place (i.e., 31.0).
 
