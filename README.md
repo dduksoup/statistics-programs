@@ -28,6 +28,7 @@ Sample output:
 Given an array X of integers and an array representing the respective weights of X's elements, calculate and print the weighted mean of X's elements. Your answer should be rounded to a scale of 1 decimal place (i.e., 31.0).
 
 Sample input:
+
 5
 
 10 40 30 50 20
@@ -35,4 +36,5 @@ Sample input:
 1 2 3 4 5
 
 Sample output:
+
 32.0
