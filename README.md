@@ -12,12 +12,15 @@ Second line contains N space-separated integers describing the array's elements.
 Sample input:
 
 10
+
 64630 11735 14216 99233 14470 4978 73429 38120 51135 67060
 
 Sample output:
 
 43900.6
+
 44627.5
+
 4978
 
 # Weighted Mean
@@ -26,7 +29,9 @@ Given an array X of integers and an array representing the respective weights of
 
 Sample input:
 5
+
 10 40 30 50 20
+
 1 2 3 4 5
 
 Sample output:
